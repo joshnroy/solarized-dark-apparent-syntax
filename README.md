@@ -1,4 +1,4 @@
-# Solarized Dark Syntax theme
+# Solarized Dark Apparent Syntax theme
 
 Atom theme using the ever popular dark [solarized] colors that have been brightened up a bit to make them more apparent.
 
