@@ -1,9 +1,15 @@
 {
-  "name": "solarized-dark-syntax",
+  "name": "solarized-dark-apparent-syntax",
   "theme": "syntax",
+<<<<<<< HEAD
   "version": "0.20.0",
   "description": "A dark syntax theme using the solarized colors",
   "repository": "https://github.com/atom/solarized-dark-syntax",
+=======
+  "version": "0.24.2",
+  "description": "A dark syntax theme using the solarized colors with slightly more apparent but still thematic colors",
+  "repository": "https://github.com/joshnroy/solarized-dark-syntax",
+>>>>>>> FETCH_HEAD
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

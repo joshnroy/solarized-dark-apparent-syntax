@@ -1,10 +1,6 @@
-# Solarized Dark Syntax theme
+# Solarized Dark Apparent Syntax theme
 
-Atom theme using the ever popular dark [solarized] colors.
-
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_Syntax Themes_ dropdown menu.
+Atom theme using the ever popular dark [solarized] colors that have been brightened up a bit to make them more apparent.
 
 ![](https://f.cloud.github.com/assets/136521/2327081/4c61f1aa-a3eb-11e3-9377-96d7837fa65a.png)
 
