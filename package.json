@@ -1,7 +1,7 @@
 {
   "name": "solarized-dark-apparent-syntax",
   "theme": "syntax",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "description": "A dark syntax theme using the solarized colors with slightly more apparent but still thematic colors",
   "repository": "https://github.com/joshnroy/solarized-dark-syntax",
   "license": "MIT",
