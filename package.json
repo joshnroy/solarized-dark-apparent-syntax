@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "1.0.0",
   "description": "A dark syntax theme using the solarized colors with slightly more apparent but still thematic colors",
-  "repository": "https://github.com/joshnroy/solarized-dark-syntax",
+  "repository": "https://github.com/joshnroy/solarized-dark-apparent-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
