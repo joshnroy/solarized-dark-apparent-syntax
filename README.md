@@ -6,4 +6,6 @@ Atom theme using the ever popular dark [solarized] colors that have been brighte
 
 [solarized]: http://ethanschoonover.com/solarized
 
+___
+
 To find the matching UI Theme, go to [Solarized Dark Apparent UI](https://github.com/joshnroy/solarized-dark-apparent-ui)
